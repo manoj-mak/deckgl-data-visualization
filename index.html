@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>deckgl</title>
+    <link rel="stylesheet" href="index.css">
+    
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css' rel='stylesheet' />
+
+
+</head>
+<body>
+
+   
+
+
+<div id="control-panel">
+  <div>
+    <label>Radius</label>
+    <input id="radius" type="range" min="1000" max="20000" step="1000" value="1000"></input>
+    <span id="radius-value"></span>
+  </div>
+  <div>
+    <label>Coverage</label>
+    <input id="coverage" type="range" min="0" max="1" step="0.1" value="1"></input>
+    <span id="coverage-value"></span>
+  </div>
+  <div>
+    <label>Upper Percentile</label>
+    <input id="upperPercentile" type="range" min="90" max="100" step="1" value="100"></input>
+    <span id="upperPercentile-value"></span>
+  </div>
+</div>
+
+
+<script src="https://unpkg.com/deck.gl@latest/dist.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.js'></script>
+    <script src="index.js"></script>
+    
+</body>
+</html>
