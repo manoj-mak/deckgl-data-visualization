@@ -547,7 +547,7 @@
 {"Product":"NFS","Year":"2021","Month":"April","State":"West Bengal","District":"South 24 Parganas","Latitude":"22.1352378","Longitude":"88.4016041","Volume":"1.46"},
 {"Product":"NFS","Year":"2021","Month":"April","State":"West Bengal","District":"Howrah","Latitude":"22.5957689","Longitude":"88.2636394","Volume":"1.43"},
 {"Product":"NFS","Year":"2021","Month":"April","State":"West Bengal","District":"Rest of Locations","Latitude":"22.6434952","Longitude":"88.4220856","Volume":"9.53"},
-{"Product":"NFS","Year":"2021","Month":"April","State":"Others","District":"Others","Latitude":"41.3738889","Longitude":"71.9569444","Volume":"1.49"},
+{"Product":"NFS","Year":"2021","Month":"April","State":"Others","District":"Others","Latitude":"19.1136444","Longitude":"72.8609791","Volume":"1.49"},
 {"Product":"NFS","Year":"2021","Month":"May","State":"Andaman & Nicobar Islands","District":"South Andaman","Latitude":"11.8311681","Longitude":"92.6586401","Volume":"0.09"},
 {"Product":"NFS","Year":"2021","Month":"May","State":"Andaman & Nicobar Islands","District":"North And Middle Andaman","Latitude":"12.6518832","Longitude":"92.8976254","Volume":"0.01"},
 {"Product":"NFS","Year":"2021","Month":"May","State":"Andhra Pradesh","District":"Visakhapatnam","Latitude":"17.6868159","Longitude":"83.2184815","Volume":"2.11"},
@@ -916,5 +916,5 @@
 {"Product":"NFS","Year":"2021","Month":"August","State":"West Bengal","District":"South 24 Parganas","Latitude":"22.1352378","Longitude":"88.4016041","Volume":"1.40"},
 {"Product":"NFS","Year":"2021","Month":"August","State":"West Bengal","District":"Howrah","Latitude":"22.5957689","Longitude":"88.2636394","Volume":"1.38"},
 {"Product":"NFS","Year":"2021","Month":"August","State":"West Bengal","District":"Rest of Locations","Latitude":"22.6434952","Longitude":"88.4220856","Volume":"9.19"},
-{"Product":"NFS","Year":"2021","Month":"August","State":"OTHERS","District":"OTHERS","Latitude":"19.0760909","Longitude":"71.9569444","Volume":"1.49"}
+{"Product":"NFS","Year":"2021","Month":"August","State":"OTHERS","District":"OTHERS","Latitude":"19.0760909","Longitude":"73.9569444","Volume":"1.49"}
 ]
