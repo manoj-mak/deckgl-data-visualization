@@ -1,5 +1,5 @@
 [
-    {"Product":"NFS","Year":"2021","Month":"August","State":"Andaman & Nicobar Islands","District":"South Andaman","Latitude":"11.8311681","Longitude":"92.6586401","Volume":"0.13"},
+{"Product":"NFS","Year":"2021","Month":"August","State":"Andaman & Nicobar Islands","District":"South Andaman","Latitude":"11.8311681","Longitude":"92.6586401","Volume":"0.13"},
 {"Product":"NFS","Year":"2021","Month":"August","State":"Andaman & Nicobar Islands","District":"North And Middle Andaman","Latitude":"12.6518832","Longitude":"92.8976254","Volume":"0.02"},
 {"Product":"NFS","Year":"2021","Month":"August","State":"Andaman & Nicobar Islands","District":"Nicobar","Latitude":"8.0011561","Longitude":"93.3227132","Volume":"0.01"},
 {"Product":"NFS","Year":"2021","Month":"August","State":"Andhra Pradesh","District":"Visakhapatnam","Latitude":"17.6868159","Longitude":"83.2184815","Volume":"2.64"},
@@ -10,7 +10,7 @@
 {"Product":"NFS","Year":"2021","Month":"August","State":"Andhra Pradesh","District":"Rest of Locations","Latitude":"15.9128998","Longitude":"79.7399875","Volume":"3.21"},
 {"Product":"NFS","Year":"2021","Month":"August","State":"Andhra Pradesh","District":"Rest of Locations","Latitude":"14.4426","Longitude":"79.9865","Volume":"2.00"},
 {"Product":"NFS","Year":"2021","Month":"August","State":"Andhra Pradesh","District":"Rest of Locations","Latitude":"15.8281","Longitude":"78.0373","Volume":"1.00"},
-{"Product":"NFS","Year":"2021","Month":"August","State":"Andhra Pradesh","District":"Rest of Locations","Latitude":"14.6819","Longitude":"77.6006","Volume":"2.00"},,
+{"Product":"NFS","Year":"2021","Month":"August","State":"Andhra Pradesh","District":"Rest of Locations","Latitude":"14.6819","Longitude":"77.6006","Volume":"2.00"},
 {"Product":"NFS","Year":"2021","Month":"August","State":"Arunachal Pradesh","District":"Papum Pare","Latitude":"27.1719019","Longitude":"93.7029002","Volume":"0.13"},
 {"Product":"NFS","Year":"2021","Month":"August","State":"Arunachal Pradesh","District":"Lower Subansiri","Latitude":"27.6169349","Longitude":"93.8391556999999","Volume":"0.03"},
 {"Product":"NFS","Year":"2021","Month":"August","State":"Arunachal Pradesh","District":"East Siang","Latitude":"28.1097051","Longitude":"95.1432068","Volume":"0.03"},
